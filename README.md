@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Hello,%20I'm%20Harsh&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=200&section=header&text=Hello,%20I'm%20Harsh&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20Cybersecurity&descAlignY=55&descAlign=50"/>
 
   <a href="https://github.com/script-ing">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Architectures;Reverse+Engineering+%26+Cybersecurity;Machine+Learning+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Architectures;Reverse+Engineering+%26+Cybersecurity;Machine+Learning+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,17 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/script-ing">
-    <img src="https://github-readme-stats.vercel.app/api?username=script-ing&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-ing&theme=dark&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" />
   </a>
-  <a href="https://github.com/script-ing">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-ing&theme=dark&background=0D1117&border=30363D&ring=00E5FF&fire=00E5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" width="48%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-ing&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D&hide_border=true" width="48%" />
 </div>
 
 <br>
@@ -63,5 +54,5 @@
 - **[BitBuffer-System](https://github.com/script-ing/BitBuffer-System)**: Low-level bit serialization and persistent data caching architecture built in Lua for maximum I/O performance.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer"/>
 </div>
