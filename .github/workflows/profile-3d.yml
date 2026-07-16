@@ -27,7 +27,7 @@ jobs:
           with open("profile-3d-contrib/profile-night-green.svg", "r", encoding="utf-8") as f:
               data = f.read()
           data = data.replace("fill=\"#00000f\"", "fill=\"transparent\"")
-          data = data.replace("transform=\"translate(40, 520)\"", "transform=\"translate(960, 520) scale(0.8)\"")
+          data = data.replace("transform=\"translate(40, 520)\"", "display=\"none\"")
           data = re.sub(r"<g transform=\"translate\(608, 802\), scale\(2\)\"><path[^>]*></path></g><text[^>]*>0<title>0</title></text>", "", data)
           data = re.sub(r"<g transform=\"translate\(736, 802\), scale\(2\)\"><path[^>]*></path></g><text[^>]*>0<title>0</title></text>", "", data)
           data = re.sub(r"<g class=\"axis\">.*?<title>0</title></text></g>", "", data)
