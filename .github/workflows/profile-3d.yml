@@ -22,7 +22,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          sed -i 's/fill="#00000f"/fill="transparent"/g' profile-3d-contrib/profile-night-green.svg
+          sed -i 's/fill="#ffffff"/fill="transparent"/g' profile-3d-contrib/profile-gitblock.svg
           git add -A .
           if ! git diff --staged --quiet; then
             git commit -m "docs: generated 3d contribution calendar"
