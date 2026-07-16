@@ -9,6 +9,12 @@
 <br>
 
 <div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="80%" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/script-ing">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-ing&theme=dark&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" />
   </a>
