@@ -9,18 +9,15 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/script-ing">
-    <img src="https://github-readme-stats.vercel.app/api?username=script-ing&show_icons=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&icon_color=22C55E&border_color=30363D&hide_border=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/script-ing">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-ing&theme=dark&background=0D1117&border=30363D&ring=22C55E&fire=22C55E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" width="48%" />
-  </a>
+  <img src="profile-summary-card-output/dark/0-profile-details.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/3-stats.svg" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-ing&layout=compact&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9&border_color=30363D&hide_border=true" width="48%" />
+  <img src="profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
+  <img src="profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
 </div>
 
 <br>
