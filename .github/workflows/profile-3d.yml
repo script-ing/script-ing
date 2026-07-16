@@ -22,7 +22,15 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          sed -i 's/fill="#ffffff"/fill="transparent"/g' profile-3d-contrib/profile-gitblock.svg
+          python3 -c '
+          import re
+          with open("profile-3d-contrib/profile-night-green.svg", "r", encoding="utf-8") as f:
+              data = f.read()
+          data = data.replace("fill=\"#00000f\"", "fill=\"transparent\"")
+          data = re.sub(r"<g transform=\"translate\(608, 802\).*?<title>0</title></text>", "", data, flags=re.DOTALL)
+          with open("profile-3d-contrib/profile-night-green.svg", "w", encoding="utf-8") as f:
+              f.write(data)
+          '
           git add -A .
           if ! git diff --staged --quiet; then
             git commit -m "docs: generated 3d contribution calendar"
